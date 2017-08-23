@@ -564,13 +564,13 @@ hr {
 	font: 15px/30px "raleway-heavy", sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2.5px;
-	color: #FFFFFF;
+	color: #444444/*ORIG:FFFFFF*/;
 	margin-bottom: 30px;
 	margin-top: 18px;
 }
 
 .section-head h1 span {
-	color: #fdc501;
+	color: #990000/*ORIG:fdc501*/;
 	position: relative;
 	left: 3px;
 }
@@ -1654,7 +1654,7 @@ ul#nav li.current a:after {
 /* =================================================================== */
 
 #services {
-	background: #12151B;
+	background: #ffffff/*ORIG:12151B*/;
 	padding-top: 120px;
 	padding-bottom: 120px;
 	border-bottom: 1px solid #15191d;
@@ -1690,7 +1690,7 @@ ul#nav li.current a:after {
 
 #services .service-list h3 {
 	font: 18px/36px "raleway-heavy", sans-serif;
-	color: #fdc501;
+	color: #990000/*ORIG:fdc501*/;
 	padding: 0;
 	text-transform: none;
 	text-align: left;
